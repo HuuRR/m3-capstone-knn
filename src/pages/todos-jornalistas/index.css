@@ -1,0 +1,9 @@
+.apenas-teste {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.containerJornalistas > h2{
+  text-align: center;
+  margin: 20px 0;
+}

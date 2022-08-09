@@ -1,0 +1,20 @@
+.img--invertida {
+	transform: scaleX(-1);
+	max-width: 230px;
+}
+
+.img--n--invertida {
+	max-width: 230px;
+}
+
+.temp--cont--opt {
+	display: flex;
+	flex-direction: row;
+}
+
+@media (max-width: 987px) {
+	.img--n--invertida,
+	.img--invertida {
+		display: none;
+	}
+}

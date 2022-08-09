@@ -1,0 +1,11 @@
+.sem--avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  background-color: gray;
+
+  margin-top: 20px;
+}
